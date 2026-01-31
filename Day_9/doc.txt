@@ -1,0 +1,48 @@
+-- Now we are using cmd
+if you want to work on cmd 
+in cmd python # check python is installed or not
+in cmd python --version # check version of python
+
+get path of python :
+basically python is installed in c drive
+so path of python is c:\python27 or c:\python34 
+or 
+go to users folder
+then go to appdata
+then go to local
+then go to program
+then go to python
+then go to python34
+then go to python.exe
+then copy the path of python.exe
+then paste it in environment variable
+path of python is c:\users\appdata\local\program\python\python34
+
+temporary path set using cmd:
+step 1: open cmd
+step 2: set path=c:\users\appdata\local\program\python\python34 
+step 3: python # check python is installed or not
+
+permanent path set using cmd:
+set path of python in environment variable
+step 1: right click on my computer
+step 2: click on properties
+step 3: click on advance system setting
+step 4: click on environment variable
+step 5: click on path
+step 6: click on edit
+step 7: click on new
+step 8: paste the path of python
+step 9: click on ok
+
+restart your cmd
+and type python 
+it working 
+if not working then restart your pc
+and type python
+
+in python we have help function  using that we can get help of any function:
+help()
+ topics # it will show all the topics
+ modules # it will show all the modules
+ keywords # it will show all the keywords
